@@ -82,7 +82,7 @@ The following screenshots demonstrate the pipeline and deployment process.
 4. Azure Container App overview page
 ![alt text](screenshots/image-1.png)
 5. Running application in browser
-![alt text](screenshots/image-2.png)
+![alt text](screenshots/image4.png)
 
 ---
 
